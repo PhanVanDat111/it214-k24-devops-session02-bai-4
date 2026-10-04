@@ -1,0 +1,11 @@
+.env
+.env.local
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# GitHub Uploader Config
+.github_uploader_config.json
+config.json
